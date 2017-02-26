@@ -6,7 +6,7 @@ React native application with Express backend
 
 1. **Downloading the code**
 
-Clone the repo with `git clone git@github.com:nickblitz/HungryRabbitApp.git`
+    Clone the repo with `git clone git@github.com:nickblitz/HungryRabbitApp.git`
 
 2. **Running the app**
     ```sh
